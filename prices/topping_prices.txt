@@ -1,0 +1,7 @@
+olives,3.70
+tomatoes,4.60
+mushrooms,5.20
+jalapenos,6.70
+chicken,6.50
+beef,7.50
+pepperoni,7.50

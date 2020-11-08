@@ -1,0 +1,8 @@
+Cock,2.00
+Diet Cock,3.00
+Cock Zero,2.50
+Pepsi,3.50
+Diet Pepsi,3.00
+Dr. Pepper,2.00
+Water,2.00
+Juice,1.50
