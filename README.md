@@ -1,4 +1,4 @@
-# a2-starter
+# If you want to run the tests, install Python's 'Coverage' and 'pytest' libraries and pytest-cov plugin 
 
 Run the main Flask module by running `python3 PizzaParlour.py`
 
