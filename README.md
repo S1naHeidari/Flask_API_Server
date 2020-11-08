@@ -1,4 +1,4 @@
-# If you want to run the tests, install Python's 'Coverage' and 'pytest' libraries and pytest-cov plugin 
+# If you want to run the tests, install Python's 'Coverage' and 'pytest' libraries. The two are dependencies of 'pytest-cov' plugin which could be installed via pip package manager 
 
 Run the main Flask module by running `python3 PizzaParlour.py`
 
